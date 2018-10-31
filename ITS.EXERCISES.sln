@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lezione12.E01", "Lezione10.E01\Lezione12.E01.csproj", "{BC96C7AA-7C0F-43A3-A6D4-91FF798B579B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lezione12.Events", "Lezione10.Events\Lezione12.Events.csproj", "{21225839-F139-4023-BCF2-F7DAAF03342F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lezione12.E02", "Lezione12.E02\Lezione12.E02.csproj", "{AD16C422-E216-4071-A8DC-742F1B467B7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC96C7AA-7C0F-43A3-A6D4-91FF798B579B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC96C7AA-7C0F-43A3-A6D4-91FF798B579B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC96C7AA-7C0F-43A3-A6D4-91FF798B579B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC96C7AA-7C0F-43A3-A6D4-91FF798B579B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21225839-F139-4023-BCF2-F7DAAF03342F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21225839-F139-4023-BCF2-F7DAAF03342F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21225839-F139-4023-BCF2-F7DAAF03342F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21225839-F139-4023-BCF2-F7DAAF03342F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD16C422-E216-4071-A8DC-742F1B467B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD16C422-E216-4071-A8DC-742F1B467B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD16C422-E216-4071-A8DC-742F1B467B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD16C422-E216-4071-A8DC-742F1B467B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {566F4B4C-1541-45C1-A942-84BD6950CA4C}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs2013.gruppo.reti.it/tfs/grupporeti
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Lezione10.E01\\Lezione12.E01.csproj
+		SccProjectName1 = Lezione10.E01
+		SccLocalPath1 = Lezione10.E01
+		SccProjectUniqueName2 = Lezione10.Events\\Lezione12.Events.csproj
+		SccProjectName2 = Lezione10.Events
+		SccLocalPath2 = Lezione10.Events
+		SccProjectUniqueName3 = Lezione12.E02\\Lezione12.E02.csproj
+		SccProjectName3 = Lezione12.E02
+		SccLocalPath3 = Lezione12.E02
+	EndGlobalSection
+EndGlobal
